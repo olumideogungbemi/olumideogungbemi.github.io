@@ -165,17 +165,14 @@ spatial statistics, health geography, environmental health, geospatial data scie
 
 ## Other Blogs
 
-## Webinars Sambus Geospatial Limited
+## WEBINARS
 
-* GIS as a solution to Environmental Management (2023).
+* [GIS as a solution to Environmental Management (2023)](https://www.example.com/webinar1)
 * State of Open Data in Nigeria (2023).
 * Geospatial Data Access in Nigeria (2022).
 * Geospatial Application Areas for School Projects (2021).
-* Interacting with BaseMaps (2021).
+* [Interacting with BaseMaps (2021)](https://www.youtube.com/watch?v=VcgDSzVH6d8)
 * Studying Demographics with Web GIS (2021).
-
-## Other Webinars
-
 * Impact of Satellite Imageries on Medical Practise" - Space Generation Council (2022).
   - Addressed the theme "Impact of Satellite Imageries on Medical Practice," with a focus on the application of Geospatial solutions.
 
@@ -195,7 +192,7 @@ spatial statistics, health geography, environmental health, geospatial data scie
 * Emergency Preparedness and Response 2022
 
 ### Environmental Systems Research Institute (ESRI)
-* Basics of JavaScript Web Apps 2021
+* GIS as a solution to Environmental Management (2023)
 * Introduction to ArcGIS API for Python
 * Performing Analysis Using ArcGIS API for Python
 * Creating Python Scripts for Raster Analysis
