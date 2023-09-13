@@ -1,16 +1,17 @@
-# OLUMIDE OGUNGBEMI
+# OLUMIDE S. OGUNGBEMI
 
+## Contact Information
 - Location: Nigeria
-- Phone: +234 (0) 9039654470
-- Email: olustephenlucasruka@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=yourgooglescholarid)
-- ORCID: [ORCID Profile](https://orcid.org/yourorcid)
-- ResearchGate: [ResearchGate Profile](https://www.researchgate.net/profile/yourresearchgate)
+- Phone: +234 903 965 4470
+- Email: **Personal:** olustephenlucasruka@gmail.com School **Affiliation:** olumide.ogungbemi@live.unilag.edu.ng **Non-Profit Organization(NGO) AGHE:** info@agapeglobalhealthandeducation **NGO Space Generation Advisory Council (SGAC)** olumide.ogungbemi@spacegeneration.org
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olumide-s-ogungbemi-771489190?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMyW9kvQmRK6HjkyzcFuGLA%3D%3D)
+- Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=2A2QVRMAAAAJ&hl=en)
+- ORCID: [ORCID Profile](https://orcid.org/0000-0003-2063-1814)
+- ResearchGate: [ResearchGate Profile](https://www.researchgate.net/profile/Olumide-Ogungbemi)
 
 ## RESEARCH INTERESTS
 
-spatial statistics, health geography, environmental health, geospatial data science.
+I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Geographer and Geospatial Data Scientist. Adept at applying innovation solutions to resolve project challenges and increase overall organisational performance. Olumide is the co-founder of AGAPE Global Health and Education (AGHE) a non-profit organisation addressing child community issues related to malnutrition and cholera through programmes and research that provide access to healthcare and quality education and Organizing Team member(Nigeria) for Space Generation Advisory Council (SGAC). He is a member of West Africa Institute of Public Health, He works as (R&D) for Sambus Geospatial Limited, an Environmental Systems Research Institute (ESRI) official distributor in West Africa with Nigeria office, He is currently a data and Development Project Manager for GISfor Africa to help mentor future Geographic Information System (GIS) experts in African countries by working these enthusiast through ESRI Africa GeoPortal platform to conduct research and provide insight for regional development.
 
 ## EDUCATION
 
@@ -20,18 +21,19 @@ spatial statistics, health geography, environmental health, geospatial data scie
   - Keffi, Nasarawa State
   
 - **Bachelor of Science, Geography and Planning**
-  - University of Lagos, Lagos, Nigeria
-  - 2015 - 2019
+  - 2019 University of Lagos (UNILAG), Lagos, Nigeria
   - Second Class Upper Division (4.43/5.00)
   - Second rank in the department
 
 ## PUBLICATIONS
 
-1. Makanju A, Ndukauba P, Nwajiaku L, Olajide I, Ogungbemi O, Adesina J. “Unequal aging in Nigeria: Evidence on Pre-covid 19” Aging Communication 2022;4(3):15 [Read Paper](https://doi.org/10.53388/AGING202204015) (Peer-reviewed published)
+1. Makanju A, Ndukauba P, Nwajiaku L, Olajide I, **Ogungbemi O,** Adesina J. “Unequal aging in Nigeria: Evidence on Pre-covid 19” Aging Communication 2022;4(3):15 [Read Paper](https://doi.org/10.53388/AGING202204015) (Peer-reviewed published)
 
-2. Makanju, A.O, Uriri, A.E,. Nwajiaku, L.C, Ogungbemi, O.S., “Aging in poverty: Evidence of the socio-economic determinants of later-life frailty in Southwestern Nigeria”. Aging Communications 2022;4(3):15. [Read Paper](https://doi.org/10.53388/AGING202204015) (peer-reviewed published)
+2. Makanju, A.O, Uriri, A.E,. Nwajiaku, L.C,** Ogungbemi, O.S.,** “Aging in poverty: Evidence of the socio-economic determinants of later-life frailty in Southwestern Nigeria”. Aging Communications 2022;4(3):15. [Read Paper](https://doi.org/10.53388/AGING202204015) (peer-reviewed published)
 
-3. Makanju, A.O, Uriri, A.E,. Olajide I.O,. Ogungbemi, O.S., Nwajiaku, L.C, Adesina J.I,. “A spatial analysis of healthcare accessibility to under-5 children”. Ghana Journal of Geography 2022; (Peer-reviewed)
+3. Makanju, A.O, Uriri, A.E,. Olajide I.O,. **Ogungbemi, O.S,.** Nwajiaku, L.C, Adesina J.I,. “A spatial analysis of healthcare accessibility to under-5 children”. Ghana Journal of Geography; (Under review)
+
+4. Alex Uriri , Timbee Catherine, **Olumide Ogungbemi,** Adebayo Makanju,. "The Practice of Female Genital Mutilation in Yaba Local Council Development Area of Mainland Local Government Area, Lagos State. Journal of Perspectives in Gender Development CGDS, Delta State University; (Under review)
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -41,12 +43,13 @@ spatial statistics, health geography, environmental health, geospatial data scie
     - Health Data collection (online)
     - Cleaning of health care facilities across Nigerian states
 
-- **Development Project Manager - GISfor Africa (Remote)**
+- **GISfor Africa (Remote)**
+- Development Project Manager  
   - July 2023-Present
   - Responsibilities:
     - Coordinating all aspects of the company's operations related to Geographic Information Systems (GIS) across Africa.
 
-- **Data and Research Consultant**
+- Data and Research Consultant
   - Jun-July 2023
   - Responsibilities:
     - Coordinating and providing mentorship to GIS users
@@ -128,12 +131,31 @@ spatial statistics, health geography, environmental health, geospatial data scie
   - Vital Registration/ Cartography Department, National Population Commission, Ogun, Nigeria
   - Responsibilities:
     - Contributed to house demographic health survey through data collection
+   
+## VOLUNTEERING AND REGIONAL SERVICES
 
-## Teaching Experience
+- **Local Organising Committee (LoC) for Space Generation Advisory Council (SGAC):** I assisted with the local venue organization for this global NGO. I also provided cultural information and suggested 12 possible sponsors in Abuja, Nigeria.
+- **Co-Founded AGAPE Global Health and Education Organization:** Our mission is to improve the lives of children suffering from malnutrition and cholera through the provision of accessible healthcare and education.
+- **Data Visualization:** Currently, I'm working on visualizing malnutrition data from UNICEF/WHO to create an interactive dashboard (dashboard setup in progress).
+- **OpenStreetMap (OSM) Mapping:** I mapped over 600 buildings (ways) on OSM, primarily to support UN peace missions in Libya and Somalia.
+- **COVID-19 ArcGIS Dashboard:** I led a team of 7 members to design and update a COVID-19 ArcGIS dashboard between July and September 2020 at the district level, covering 270 locations across the 15-member states of ECOWAS.
+- **Humanitarian Activities:** I identified Durumi IDPs camp for visitation, assisted in getting provisions for the camp, and participated in educating 15 children to mark the celebration of World Humanitarian Day 2021.
+- **OSM Training Proposal:** I initiated a proposal to UN Mappers to help train 40 University of Lagos students for 3 weeks and contributed to organizing the first OSM mapathon on OpenStreetMap (OSM) for peacekeeping missions.
+
+## PROFESSIONAL MEMBERSHIP
+
+2022  **West African Institute of Public Health:** 
+2022  **Nigerian Red Cross Society:** 
+2022  **French Institute in Nigeria (A2 level speaker):** 
+2021  **Space Generation Advisory Council:** 
+2020  **Humanitarian OpenStreetMap Team (HOTOSM):** 
+2020  **ESRI Africa/Nigeria Geo-portal Community:** 
+
+## TEACHING EXPERIENCES
 
 ### Umuocha Secondary School, Abia, Nigeria
 * **Position**: Data and Information Instructor
-* **Duration**: Dec. 20’ - Feb. 2021
+* **Duration**: Dec. 2020 - Feb. 2021
 * **Responsibilities**:
   - Taught 17 secondary students per session in data and information, a section in computer studies.
   - Conducted a total of 9 hours of teaching over 3 months.
@@ -158,41 +180,43 @@ spatial statistics, health geography, environmental health, geospatial data scie
 * **Recognition**: Top 10% Google Map local guide contributor in Lagos Metropolitan Area in 2021.
 * **Recognition**: Best statistical and cartography student, Dep. of Geography, University of Lagos (2019).
 
-## BLOGS Sambus Geospatial Limited
+## BLOGS
 
 * [Survey 123 for Data Collection of Humanitarian Activities](#) (2022).
-* [Landsat 9: Introducing Earth Observation Satellite](#) (2022).
-
-## Other Blogs
+* [Landsat 9: Introducing Earth Observation Satellite](#) (2022)
 
 ## WEBINARS
 
-* [GIS as a solution to Environmental Management (2023)](https://www.example.com/webinar1)
+* **Organizer** [3D Mapping Effect, Leveraging GIS Technology for City Planning](https://www.youtube.com/watch?v=AFPEf-XdgY8)
+* **Organizer** GIS as a solution to Environmental Management
+* **Organizer** GIS for community Development
 * State of Open Data in Nigeria (2023).
-* Geospatial Data Access in Nigeria (2022).
-* Geospatial Application Areas for School Projects (2021).
-* [Interacting with BaseMaps (2021)](https://www.youtube.com/watch?v=VcgDSzVH6d8)
-* Studying Demographics with Web GIS (2021).
-* Impact of Satellite Imageries on Medical Practise" - Space Generation Council (2022).
-  - Addressed the theme "Impact of Satellite Imageries on Medical Practice," with a focus on the application of Geospatial solutions.
+* Geospatial Data Access in Nigeria (2022) 
+* **Organizer** [GIS for Humanitarian Crises, World Refugee Day 2022](https://www.youtube.com/watch?v=gEZ76gS5M3o)
+* **Demonstration** [Interacting with BaseMaps](https://www.youtube.com/watch?v=VcgDSzVH6d8)
+* **Presenter** [Studying Demographics with Web GIS](https://www.youtube.com/watch?v=KWUYLBVS9gA)
+* **Presenter** [Research Areas How to Apply Geospatial Applications in Your School Projects](https://www.youtube.com/watch?v=ARlOZR2MEtw)
+* **Demonstration** Impact of Satellite Imageries on Medical Practise" 
+* **Organiser/Presenter** [GIS Day An Introduction to Maps Secondary Schools in Oke Ila](https://www.youtube.com/watch?v=3nYEBTfPR2U)
+* **Demonstration/Presenter** Walking through ESRI Africa GeoPortal
+* **Presenter** Is the term GIS now Obsolete?
+  
+## CONFERENCES, WORKSHOPS AND SEMINARS
 
-## Conferences, Worshops and Seminars
+* 2023  GIS Creating the World You Want to See 
+* 2022  Mapping Common Ground - Esri User Conference
+* 2021  Creating a Sustainable Future - Esri User Conference 
+* 2021  Sustainability Decisions with Spatial and Temporal Analysis (GIS for a Sustainable World Conference)
 
-* GIS Creating the World You Want to See (2023).
-* Mapping Common Ground - Esri User Conference (2022).
-* Creating a Sustainable Future - Esri User Conference (2021).
-* Sustainability Decisions with Spatial and Temporal Analysis (GIS for a Sustainable World Conference) - 2021.
-
-## Online Courses and MOOCs
+## ONLINE COURSES
 
 ### United Nations Institute for Training and Research (UNITAR)
-* Geospatial Information Technology in Fragile Contexts, EO4SD 2022
+* Geospatial Information Technology in Fragile Contexts, EO4SD 
 
 ### United Nations Children's Fund (UNICEF)
-* Emergency Preparedness and Response 2022
+* Emergency Preparedness and Response
 
 ### Environmental Systems Research Institute (ESRI)
-* GIS as a solution to Environmental Management (2023)
 * Introduction to ArcGIS API for Python
 * Performing Analysis Using ArcGIS API for Python
 * Creating Python Scripts for Raster Analysis
