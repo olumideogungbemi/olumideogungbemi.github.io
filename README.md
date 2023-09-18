@@ -3,7 +3,7 @@
 ## Contact Information
 - Location: Nigeria
 - Phone: +234 903 965 4470
-- Email: **Personal:** olustephenlucasruka@gmail.com School **Affiliation:** olumide.ogungbemi@live.unilag.edu.ng **Non-Profit Organization(NGO) AGHE:** info@agapeglobalhealthandeducation **NGO Space Generation Advisory Council (SGAC)** olumide.ogungbemi@spacegeneration.org
+- Email: **Personal:** olustephenlucasruka@gmail.com **School Affiliation:** olumide.ogungbemi@live.unilag.edu.ng **Non-Profit Organization(NGO) AGHE:** info@agapeglobalhealthandeducation **NGO Space Generation Advisory Council (SGAC)** olumide.ogungbemi@spacegeneration.org
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/olumide-s-ogungbemi-771489190?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMyW9kvQmRK6HjkyzcFuGLA%3D%3D)
 - Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=2A2QVRMAAAAJ&hl=en)
 - ORCID: [ORCID Profile](https://orcid.org/0000-0003-2063-1814)
@@ -34,6 +34,8 @@ I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Ge
 3. Makanju, A.O, Uriri, A.E,. Olajide I.O,. **Ogungbemi, O.S,.** Nwajiaku, L.C, Adesina J.I,. “A spatial analysis of healthcare accessibility to under-5 children”. Ghana Journal of Geography; (Under review)
 
 4. Alex Uriri , Timbee Catherine, **Olumide Ogungbemi,** Adebayo Makanju,. "The Practice of Female Genital Mutilation in Yaba Local Council Development Area of Mainland Local Government Area, Lagos State. Journal of Perspectives in Gender Development CGDS, Delta State University; (Under review)
+
+5. ** Ogungbemi, O.S.,** Babatola, O. "Index of Satisfaction as a Correlate of Future Tourism Patronage Intention: A Case Study of Lekki Conservation Centre in Lagos State, Nigeria". Journal of Geographic Issues, Department of Geography, University of Lagos. (Under review)
 
 ## PROFESSIONAL EXPERIENCE
 
