@@ -38,6 +38,24 @@ I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Ge
 5. **Ogungbemi, O.S.,** Babatola, O. "Index of Satisfaction as a Correlate of Future Tourism Patronage Intention: A Case Study of Lekki Conservation Centre in Lagos State, Nigeria". Journal of Geographic Issues, Department of Geography, University of Lagos. (Under review)
 
 6. Alex Uriri , Kehinde Baruwa, **Olumide Ogungbemi,** A study of reproductive health and sustainable development goal 3 in selected slum communities in Lagos mainland LGA
+
+# Bids and Proposals (Sambus Geospatial Nigeria Limited)
+
+Here are two research grant bids and proposals where I took the lead in writing:
+
+## 1. Strengthening Geospatial Capacity at National and Sub-National Levels (BMGF)
+
+**Concept Note:**
+- **Funding Agency:** Bill and Melinda Gates Foundation (BMGF)
+- **Role:** Lead Author
+- **Status:** Still Pending
+
+## 2. Funding Request for Proposed Solution on Incident Reporting and Gender-Related Crimes Using GIS
+
+**Proposal for Ministry of Women Affairs (Written on Behalf of Ministry of Women Affairs to UNICEF):**
+- **Funding Agency:** United Nations Children’s Fund (UNICEF)
+- **Project Title:** Incident Reporting and Gender-Related Crimes Using GIS
+- **Role:** Lead Author
    
 ## PROFESSIONAL EXPERIENCE
 
