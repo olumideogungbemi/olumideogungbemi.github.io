@@ -11,7 +11,7 @@
 
 ## RESEARCH INTERESTS
 
-I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Geographer and Geospatial Data Scientist. Adept at applying innovation solutions to resolve project challenges and increase overall organisational performance. Olumide is the co-founder of AGAPE Global Health and Education (AGHE) a non-profit organisation addressing child community issues related to malnutrition and cholera through programmes and research that provide access to healthcare and quality education and Organizing Team member(Nigeria) for Space Generation Advisory Council (SGAC). He is a member of West Africa Institute of Public Health, He works as (R&D) for Sambus Geospatial Limited, an Environmental Systems Research Institute (ESRI) official distributor in West Africa with Nigeria office, He is currently a data and Development Project Manager for GISfor Africa to help mentor future Geographic Information System (GIS) experts in African countries by working these enthusiast through ESRI Africa GeoPortal platform to conduct research and provide insight for regional development.
+Research and Development (R&D) Specialist, Health Geographer and Geospatial Data Scientist. 
 
 ## EDUCATION
 
