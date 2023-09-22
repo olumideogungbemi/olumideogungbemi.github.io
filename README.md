@@ -35,8 +35,10 @@ I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Ge
 
 4. Alex Uriri , Timbee Catherine, **Olumide Ogungbemi,** Adebayo Makanju,. "The Practice of Female Genital Mutilation in Yaba Local Council Development Area of Mainland Local Government Area, Lagos State. Journal of Perspectives in Gender Development CGDS, Delta State University; (Under review)
 
-5. ** Ogungbemi, O.S.,** Babatola, O. "Index of Satisfaction as a Correlate of Future Tourism Patronage Intention: A Case Study of Lekki Conservation Centre in Lagos State, Nigeria". Journal of Geographic Issues, Department of Geography, University of Lagos. (Under review)
+5. **Ogungbemi, O.S.,** Babatola, O. "Index of Satisfaction as a Correlate of Future Tourism Patronage Intention: A Case Study of Lekki Conservation Centre in Lagos State, Nigeria". Journal of Geographic Issues, Department of Geography, University of Lagos. (Under review)
 
+6. Alex Uriri , Kehinde Baruwa, **Olumide Ogungbemi,** A study of reproductive health and sustainable development goal 3 in selected slum communities in Lagos mainland LGA
+   
 ## PROFESSIONAL EXPERIENCE
 
 - **Geospatial Data Scientist - InStrat Global Health Solutions (Contract)**
