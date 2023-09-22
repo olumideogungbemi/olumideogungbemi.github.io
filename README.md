@@ -101,7 +101,7 @@ I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Ge
   - SQL, QGIS, Esri ArcGIS Pro, Google Earth Pro, ArcGIS Online, OSM, ENVI, GPS
   - ArcMap, Google Map, Deep learning, Tableau
 - **Languages**
-  - Beginner proficiency in ArcGIS Pro for Python API and JavaScript, SQL, HTML, CSS (learned from ESRI courses), and R programming (learned from Datacamp course)
+  - R programming, Beginner proficiency in Python, JavaScript, SQL, HTML, and CSS 
 - **Data Gathering**
   - Survey 123, SPSS
 
