@@ -207,7 +207,7 @@ I am Olumide S. Ogungbemi a Research and Development (R&D) Specialist, Health Ge
   
 ## CONFERENCES, WORKSHOPS AND SEMINARS
 
-* 2023  GIS Creating the World You Want to See 
+* 2023  GIS Creating the World You Want to See - Esri User Conference
 * 2022  Mapping Common Ground - Esri User Conference
 * 2021  Creating a Sustainable Future - Esri User Conference 
 * 2021  Sustainability Decisions with Spatial and Temporal Analysis (GIS for a Sustainable World Conference)
