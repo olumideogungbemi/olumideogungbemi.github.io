@@ -221,7 +221,8 @@ Here are two research grant bids and proposals where I took the lead in writing:
 * **Demonstration** Impact of Satellite Imageries on Medical Practise" 
 * **Organiser/Presenter** [GIS Day An Introduction to Maps Secondary Schools in Oke Ila](https://www.youtube.com/watch?v=3nYEBTfPR2U)
 * **Demonstration/Presenter** Walking through ESRI Africa GeoPortal
-* **Presenter** Is the term GIS now Obsolete?
+* **Presenter** [Is the term GIS now Obsolete?](https://drive.google.com/file/d/14_s08YrZ2cSdp4-uG3gqhfnYnWzMw4yy/view?ts=6437e994)
+* **Presenter** GIS and Disaster Management
   
 ## CONFERENCES, WORKSHOPS AND SEMINARS
 
