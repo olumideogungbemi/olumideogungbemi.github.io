@@ -16,7 +16,7 @@ Research and Development (R&D) Specialist, Health Geographer and Geospatial Data
 ## EDUCATION
 
 - **Centre of CyberSpace Studies**
-  - Data Science and Technology
+  - Masters in Data Science and Technology
   - 2023 - Present
   - Keffi, Nasarawa State
   
@@ -63,25 +63,40 @@ Here are two research grant bids and proposals where I took the lead in writing:
   - July 2023-Present
   - Responsibilities:
     - Health Data collection (online)
-    - Cleaning of health care facilities across Nigerian states
+    - Cleaning of 46k+ health care facilities across Nigerian states
 
 - **GISfor Africa (Remote)**
 - Development Project Manager  
   - July 2023-Present
   - Responsibilities:
-    - Coordinating all aspects of the company's operations related to Geographic Information Systems (GIS) across Africa.
+    - Monitor completion of task
+    - Engage GISforAfrica Development Project (GDP) team officers in the group for communication activities
+    - Suggest or Provide technical solutions to challenges to performing tasks.
 
 - Data and Research Consultant
   - Jun-July 2023
   - Responsibilities:
     - Coordinating and providing mentorship to GIS users
-    - Facilitating their utilization of data sourced from the ESRI AfricaGeoPortal platform for research
+    - Facilitating their utilization of data sourced from the ESRI AfricaGeoPortal platform
+    - Conduct research that yields valuable insights for regional development
 
-- **Research and Development Specialist, Intern - Sambus Geospatial Nigeria Limited, Abuja, FCT**
-  - Jan 2022-Present, Jun-Dec 2021
+- **Sambus Geospatial Nigeria Limited, Abuja, FCT**
+- Research and Development Specialist
+  - Jan 2022-Present
   - Responsibilities:
-    - Contributed to 30+ published GIS blogs/articles
-    - Presented solutions to clients in the NGOs and Health verticals
+    - Conduct research to identify average of 10 potential leads and opportunities in new products and new markets to support business development activities aimed at spotting new opportunities
+    - Carried out research about 60+ company’s prospective customers within the Geospatial industry to create detailed customer profiles.
+    - Provide reports and do presentations to management and the various departments on new research insights and business intelligence resulting in 12% increase in lead generation output.
+    - Research and business intelligence gathered to offer insights and recommendations to contributing to 8% increase in the company's competitive advantage.
+    - Accumulate and store insights from internal and external research resuting in in a centralize repository https://opendata.sambusgeospatial.com/ of data points across verticals to aid decision making and usage by the various departments and management 
+
+-Business Development Intern 
+  - Jun-Dec 2021
+  - Responsibilities:
+    - Research into the company’s market to gather business intelligence relevant to business development activities.
+    - Develop new markets, expand existing market opportunities, and engage in market penetration activities for the company.
+    - Contributed to 20+ published GIS blogs/articles
+    - Presented solutions to clients across 12 verticals
 
 - **Demarcator (EAD field organization) – National population commission, Ogun**
   - Mar–May 2021
