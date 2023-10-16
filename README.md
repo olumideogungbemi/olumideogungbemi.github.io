@@ -88,14 +88,15 @@ Here are two research grant bids and proposals where I took the lead in writing:
     - Carried out research about 60+ company’s prospective customers within the Geospatial industry to create detailed customer profiles.
     - Provide reports and do presentations to management and the various departments on new research insights and business intelligence resulting in 12% increase in lead generation output.
     - Research and business intelligence gathered to offer insights and recommendations to contributing to 8% increase in the company's competitive advantage.
-    - Accumulate and store insights from internal and external research resuting in in a centralize repository https://opendata.sambusgeospatial.com/ of data points across verticals to aid decision making and usage by the various departments and management 
+    - Accumulate and store insights from internal and external research resuting in in a centralize repository https://opendata.sambusgeospatial.com/ of data points across verticals to aid decision making and usage by the various departments and management
+    - Contributed 20+ published additional blogs across verticals and product offerings. https://sambusgeospatial.com/blog/
 
 -Business Development Intern 
   - Jun-Dec 2021
   - Responsibilities:
     - Research into the company’s market to gather business intelligence relevant to business development activities.
     - Develop new markets, expand existing market opportunities, and engage in market penetration activities for the company.
-    - Contributed to 20+ published GIS blogs/articles
+    - Contributed to 20+ published GIS blogs/articles https://sambusgeospatial.com/blog/
     - Presented solutions to clients across 12 verticals
 
 - **Demarcator (EAD field organization) – National population commission, Ogun**
@@ -217,10 +218,10 @@ Here are two research grant bids and proposals where I took the lead in writing:
 * **Recognition**: Top 10% Google Map local guide contributor in Lagos Metropolitan Area in 2021.
 * **Recognition**: Best statistical and cartography student, Dep. of Geography, University of Lagos (2019).
 
-## BLOGS
+## BLOGS(SELECTED)
 
-* [Survey 123 for Data Collection of Humanitarian Activities](#) (2022).
-* [Landsat 9: Introducing Earth Observation Satellite](#) (2022)
+* Survey 123 for Data Collection of Humanitarian Activities (2022).
+* Landsat 9: Introducing Earth Observation Satellite (2022)
 
 ## WEBINARS
 
